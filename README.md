@@ -1,10 +1,10 @@
 # Java RC Chat
 This repository contains the code to run a simple local RC chat made in Java.
 
-The goal was to create a simple toy project to play with the Observer pattern in Java.
+The goal was to create a simple toy project to play with the Observer pattern.
 
 ## How to run
- - Make sure you have the JKD installed and PATH variable configured
+ - Make sure you have the JDK installed and PATH variable configured
  - Run `java -version` inside your terminal to make sure Java is configured appropriately
  - Run the followings in separate terminals: 
    - Server: `java src/main/java/org/example/server/ChatServer.java`
